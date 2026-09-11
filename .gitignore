@@ -1,0 +1,5 @@
+env1/
+.env1
+__puycache__/
+*.pyc
+.idea/
