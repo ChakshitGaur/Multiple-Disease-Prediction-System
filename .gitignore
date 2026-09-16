@@ -1,5 +1,5 @@
 env1/
 .env1
-__puycache__/
+__pycache__/
 *.pyc
 .idea/
